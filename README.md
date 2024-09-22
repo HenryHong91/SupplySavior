@@ -18,3 +18,5 @@ This project implements a machine learning model to forecast sales and analyze s
 - statsmodels
 - openpyxl
 
+## Reulst 
+![image](https://github.com/user-attachments/assets/10fb56bb-e05d-4f46-9273-a69e9a80fd50)
